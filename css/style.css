@@ -1,0 +1,14 @@
+.scollbar{
+          overflow-y: scroll;
+          height: 510px;
+          
+}
+body{
+          background-color: rgb(8, 7, 7);
+}
+.arrow{
+          display: none;
+}
+.msg{
+          display: none;
+}
